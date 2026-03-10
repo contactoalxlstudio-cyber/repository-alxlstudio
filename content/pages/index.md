@@ -7,7 +7,7 @@ sections:
       text: "Diseño que\_Trasciende."
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       ALXL Studio es un despacho de arquitectura contemporánea con una visión
       joven. Creamos espacios atemporales que fusionan estética moderna con un
