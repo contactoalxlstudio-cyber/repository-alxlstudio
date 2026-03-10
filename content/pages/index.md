@@ -54,6 +54,7 @@ sections:
           - mt-1
           - ml-1
           - mr-1
+          - mb-1
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
