@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: right
-          fontWeight: 700
+          fontWeight: 400
     subtitle: ''
     text: >+
       <div style="text-align: center">ALXL Studio es un despacho de arquitectura
