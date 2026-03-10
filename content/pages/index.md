@@ -32,7 +32,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/F080725_2.png
       altText: ''
       elementId: ''
       type: ImageBlock
