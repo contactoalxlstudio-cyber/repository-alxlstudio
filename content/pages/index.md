@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: right
+          textAlign: center
           fontWeight: 400
     subtitle: ''
     text: >+
