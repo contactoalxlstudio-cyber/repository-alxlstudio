@@ -51,10 +51,10 @@ sections:
           - pb-40
           - pr-16
         margin:
-          - mt-1
-          - ml-1
+          - mt-0
+          - ml-0
           - mr-0
-          - mb-1
+          - mb-0
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
