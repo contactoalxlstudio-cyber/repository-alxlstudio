@@ -7,6 +7,9 @@ sections:
       text: "Diseño que\_Trasciende."
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >+
       <div style="text-align: center">ALXL Studio es un despacho de arquitectura
