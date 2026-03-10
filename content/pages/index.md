@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      ALXL Studio es un despacho de arquitectura contemporánea con una visión
-      joven. Creamos espacios atemporales que fusionan estética moderna con un
-      lujo sutil, ofreciendo un diseño sofisticado y funcional.
+    text: >+
+      <div style="text-align: center">ALXL Studio es un despacho de arquitectura
+      contemporánea con una visión joven. Creamos espacios atemporales que
+      fusionan estética moderna con un lujo sutil, ofreciendo un diseño
+      sofisticado y funcional.</div>
+
     actions:
       - label: Get started
         altText: ''
