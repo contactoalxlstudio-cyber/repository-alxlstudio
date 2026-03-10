@@ -35,10 +35,6 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badg
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
