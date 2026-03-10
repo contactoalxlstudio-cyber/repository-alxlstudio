@@ -53,7 +53,7 @@ sections:
         margin:
           - mt-1
           - ml-1
-          - mr-12
+          - mr-0
           - mb-1
     backgroundImage:
       type: BackgroundImage
