@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ALXL Studio es un despacho de arquitectura contemporánea con una visión
+      joven. Creamos espacios atemporales que fusionan estética moderna con un
+      lujo sutil, ofreciendo un diseño sofisticado y funcional.
     actions:
       - label: Get started
         altText: ''
